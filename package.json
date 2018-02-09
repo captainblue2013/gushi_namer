@@ -1,0 +1,20 @@
+{
+  "name": "gushi_namer",
+  "version": "1.0.0",
+  "description": "利用诗经 楚辞等给小朋友起名字的网页",
+  "main": "namer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holynova/gushi_namer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holynova/gushi_namer/issues"
+  },
+  "homepage": "https://github.com/holynova/gushi_namer#readme"
+}
